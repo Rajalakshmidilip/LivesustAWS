@@ -3,13 +3,7 @@
   <groupId>LivesustAWS</groupId>
   <artifactId>LivesustAWS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <distributionManagement>
-  <repository>
-    <id>livesustaws-LivesustAWS</id>
-    <name>livesustaws-LivesustAWS</name>
-    <url>https://livesustaws-288260523964.d.codeartifact.ap-south-1.amazonaws.com/maven/LivesustAWS/</url>
-  </repository>
-</distributionManagement>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
