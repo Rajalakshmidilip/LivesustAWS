@@ -3,7 +3,7 @@ Feature: Verify the ForgotPassword Functionality
   Background: ForgotPasswordPage
     Given user is on forgotpassword screen
     
-@forgot
+  @forgot
   Scenario Outline: Verify user reset the password successfully
     When user enter the valid forgotpassword email <email>
     Then user click on continue button

@@ -25,7 +25,6 @@ public class SignInPageStep extends TestBase{
 			TestUtils.selectBrowser();	
 			System.out.println("Livesust Website is launched");
 			
-			
 			}catch(Exception e) {
 			System.out.println(e);
 			Assert.fail("User not able to launch Livesust Website");
